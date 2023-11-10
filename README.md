@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ![sqlserver](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joxan213&theme=blue-green)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joxan2137&theme=blue-green)
 
 ![stats](	https://github-readme-stats.vercel.app/api?username=joxan2137&theme=blue-green)
 
