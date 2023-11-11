@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![java](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=java&logoColor=orange)
 
 ### Front-End Development
 
