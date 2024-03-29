@@ -8,7 +8,7 @@
 - 16\.
 - self taught jr. developer.
 
-<img src="https://u8views.com/api/v1/github/profiles/68732450/views/day-week-month-total-count.svg" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
+<img src="https://u8views.com/api/v1/github/profiles/68732450/views/total-count.svg" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
 ### Languages
 ![](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=white)
