@@ -13,10 +13,11 @@
 ### Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white)
+![](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/CPP-323330?style=for-the-badge&logo=oracle&logoColor=black)
 
 ### Frameworks
 #### UI
