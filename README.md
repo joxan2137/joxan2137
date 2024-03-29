@@ -1,16 +1,16 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=joxan2137&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joxan2137&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=joxan2137&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=joxan2137&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=joxan2137&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
-## About Me
+### About Me
 - 16\.
 - self taught jr. developer.
 
 <img src="https://github-views.deno.dev/api/badge/joxan2137" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
-## Languages
+### Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -18,8 +18,8 @@
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Frameworks
-### UI
+### Frameworks
+#### UI
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,5 +46,3 @@
 ## Services
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-
-<sub>Moderate experience. Used > 1 on projects. Personally sorted by favoritism.</sub>
