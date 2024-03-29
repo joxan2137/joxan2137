@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-![visitors](https://visitor-badge.glitch.me/badge?page_id=joxan2137)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=joxan2137.joxan2137&left_color=black&right_color=gray)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joxan2137)
 
 🔭 My name is [redacted], a **Web Developer and ASP.NET Developer**
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 ### Languages
 
-![cpp]([https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/c++-black))
+![cpp](https://img.shields.io/badge/c++-black)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=java&logoColor=orange)
 
