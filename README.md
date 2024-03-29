@@ -11,7 +11,7 @@
 <img src="https://github-views.deno.dev/api/badge/joxan2137" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
 ### Languages
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+![](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white)
@@ -21,29 +21,22 @@
 
 ### Frameworks
 #### UI
-![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Svelte-323330?style=for-the-badge&logo=svelte&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
-![](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Tauri-323330?style=for-the-badge&logo=Tauri&logoColor=white)
+![](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 ### OSs
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Arch-323330?style=for-the-badge&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/Android-323330?style=for-the-badge&logo=android&logoColor=white)
 
 ### IDEs
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-## Runtimes
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/JVM-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
-
-## Services
-![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
