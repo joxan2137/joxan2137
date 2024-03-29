@@ -12,18 +12,18 @@
 
 ### Languages
 ![](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/CPP-323330?style=for-the-badge&logo=oracle&logoColor=black)
+![](https://img.shields.io/badge/CPP-323330?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Frameworks
 #### UI
 ![](https://img.shields.io/badge/Svelte-323330?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white)
 
 ### Backend
 ![](https://img.shields.io/badge/Tauri-323330?style=for-the-badge&logo=Tauri&logoColor=white)
