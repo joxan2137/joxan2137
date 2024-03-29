@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🛠️ Skills
 ### Languages
 
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![cpp]([https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/c++-black))
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![java](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=java&logoColor=orange)
 
@@ -35,11 +35,7 @@ Here are some ideas to get you started:
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!--![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)-->
-![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Back-End Development
 
@@ -57,8 +53,8 @@ Here are some ideas to get you started:
 
 ## 🖥️ Workspace Setup
 
-![i7-4th-gen](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gtx-660](https://img.shields.io/badge/NVIDIA-GTX_1070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![i7-11th-gen](https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![gtx-1070ti](https://img.shields.io/badge/NVIDIA-GTX_1070ti-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows 11](https://img.shields.io/badge/Windows_11-black)
 ![vs-2022](https://img.shields.io/badge/Visual_Studio-2022-007ACC?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 ![vs-code](https://img.shields.io/badge/Visual_Studio-Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
