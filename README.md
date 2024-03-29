@@ -28,7 +28,7 @@
 ### Backend
 ![](https://img.shields.io/badge/Tauri-323330?style=for-the-badge&logo=Tauri&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![](https://img.shields.io/badge/Socket.io-323330?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 ### OSs
 ![](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)
@@ -36,7 +36,7 @@
 ![](https://img.shields.io/badge/Android-323330?style=for-the-badge&logo=android&logoColor=white)
 
 ### IDEs
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-323330.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
