@@ -32,7 +32,7 @@
 
 ### OSs
 ![](https://img.shields.io/badge/Windows-323330?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Arch-323330?style=for-the-badge&logo=arch&logoColor=white)
+![](https://img.shields.io/badge/Arch-323330?style=for-the-badge&logo=archlinux&logoColor=white)
 ![](https://img.shields.io/badge/Android-323330?style=for-the-badge&logo=android&logoColor=white)
 
 ### IDEs
