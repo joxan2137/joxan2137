@@ -6,7 +6,7 @@
 
 ### About Me
 - 16\.
-- self taught Full-Stack developer.
+- Self taught Full-Stack developer.
 
 <img src="https://u8views.com/api/v1/github/profiles/68732450/views/total-count.svg" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
