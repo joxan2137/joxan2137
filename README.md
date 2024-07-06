@@ -11,9 +11,10 @@
 <img src="https://u8views.com/api/v1/github/profiles/68732450/views/total-count.svg" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
 
 ### Languages
+![.](https://img.shields.io/badge/Rust-323330?style=for-the-badge&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=oracle&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/json-323330?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=white)
