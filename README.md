@@ -25,9 +25,9 @@
 ![](https://img.shields.io/badge/Svelte-323330?style=for-the-badge&logo=svelte&logoColor=white)
 ![](https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Tauri-323330?style=for-the-badge&logo=Tauri&logoColor=white)
 
 ### Backend
-![](https://img.shields.io/badge/Tauri-323330?style=for-the-badge&logo=Tauri&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-323330?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Socket.io-323330?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
