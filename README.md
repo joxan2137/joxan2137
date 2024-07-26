@@ -5,7 +5,7 @@
 <img width="50%" align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=joxan2137&bg_color=151515&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
 
 ### About Me
-- 18\.
+- 17\.
 - Self taught Full-Stack developer.
 
 <img src="https://u8views.com/api/v1/github/profiles/68732450/views/total-count.svg" alt="You shouldn't be seeing this. Visitor Badge failed to load.">
