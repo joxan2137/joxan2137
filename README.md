@@ -19,6 +19,7 @@
 ![](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-323330?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/CPP-323330?style=for-the-badge&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/LUA-323330?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Frameworks
 #### UI
