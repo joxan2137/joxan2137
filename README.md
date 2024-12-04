@@ -41,5 +41,4 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-323330.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-323330?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zed&logoColor=white)
-
+![Zed](https://img.shields.io/badge/zed-323330.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
